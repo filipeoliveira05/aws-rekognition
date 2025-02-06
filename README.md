@@ -1,4 +1,4 @@
-# Amazon Rekognition
+# Amazon Rekognition - Visão Computacional com IA  
 
 ## 📌 Descrição
 Este repositório contém exemplos, insights e aplicações do **Amazon Rekognition**, um serviço de visão computacional da AWS que permite analisar imagens e vídeos utilizando **Inteligência Artificial e Machine Learning**.
